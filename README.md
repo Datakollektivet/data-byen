@@ -5,9 +5,14 @@ Jeg ved ikke endnu hvordan jeg vil vise de her data, men nu starter vi lige med 
 
 ## Datakilder
 
-### Uddannelsesniveau
+### Danmarks statistik
 
-[Fra Danmarks statistik](https://www.statistikbanken.dk/10139)
+Her hedder sognet 8249 Hjortshøj (Aarhus Kommune)
+
+Se script!
+
+- [Udannelsesniveau](https://www.statistikbanken.dk/10139)
+- 
 
 ### Grundskole
 
