@@ -1,9 +1,13 @@
-# data-byen
+# Data Byen
 Den korte pitch er at se hvor mange data der kan samles for en by, eller rettere, et sogn. Hvorfor et sogn? Fordi det synes at være en passende enhed for at samle data med relation til et lokalområde. Niveauet over i det fleste danske databaser er kommunen, hvilket sjældent er passende fra et lokalt perspektiv.
 
 Jeg ved ikke endnu hvordan jeg vil vise de her data, men nu starter vi lige med at indsamle data :)
 
 ## Datakilder
+
+### Uddannelsesniveau
+
+[Fra Danmarks statistik](https://www.statistikbanken.dk/10139)
 
 ### Grundskole
 
