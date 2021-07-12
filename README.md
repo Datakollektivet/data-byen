@@ -11,8 +11,24 @@ Her hedder sognet 8249 Hjortshøj (Aarhus Kommune)
 
 Se script!
 
+- [Gennemsnitsalder](https://www.statistikbanken.dk/KMGALDER)
+- [Folketal og herkomst](https://www.statistikbanken.dk/KM1)
+- [Befolkningens udvikling](https://www.statistikbanken.dk/KMSTA003)
+- [Levendefødte og døde](https://www.statistikbanken.dk/KM3)
+- [Ind- og udmeldelser af folkekirken](https://www.statistikbanken.dk/KM2)
+- [Kirkelige handlinger](https://www.statistikbanken.dk/KM4)
 - [Udannelsesniveau](https://www.statistikbanken.dk/10139)
+- [socioøkonomisk status](https://www.statistikbanken.dk/KMSTA005)
+- [Pendling](https://www.statistikbanken.dk/KMSTA009)
+- [Kirkelige handlinger efter sogn](https://www.statistikbanken.dk/KM4)
+
+### Åbne data
+- [Socioøkonomiske data](https://www.opendata.dk/city-of-aarhus/sociooekonomiaarhus2021#resource-4a2e898c-180d-49ea-b6f7-d5e8bb9bb19c)
+- [DMI vejrdata](https://www.dmi.dk/frie-data/)
 - 
+
+### Vandprøver
+[Fra Hjortshøj Vandværk via Geus](http://data.geus.dk/JupiterWWW/anlaeg.jsp?anlaegid=80606)
 
 ### Grundskole
 
