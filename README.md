@@ -25,6 +25,12 @@ Se script!
 ### Åbne data
 - [Socioøkonomiske data](https://www.opendata.dk/city-of-aarhus/sociooekonomiaarhus2021#resource-4a2e898c-180d-49ea-b6f7-d5e8bb9bb19c)
 - [DMI vejrdata](https://www.dmi.dk/frie-data/)
+- [Rejseplanen](https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API)
+- [Besøgende bibliotek 5min](https://www.opendata.dk/city-of-aarhus/besogstal-og-abningstider-for-aarhus-kommunes-biblioteker)
+- [Blipdata](https://www.opendata.dk/city-of-aarhus/realtids-trafikdata)
+- [Aarhus bolig](https://www.opendata.dk/city-of-aarhus/aarhusbolig)
+- [Trafiktal](https://www.aarhus.dk/om-kommunen/aarhus-i-tal/trafik-og-infrastruktur/)
+- [Børn i dagsinstitution](https://www.opendata.dk/city-of-aarhus/born-i-dagtilbud)
 - 
 
 ### Vandprøver
